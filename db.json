@@ -17,6 +17,18 @@
       "text": "Food Shopping",
       "day": "Feb 5th at 2:30pm",
       "reminder": false
+    },
+    {
+      "text": "Some task",
+      "day": "Some day and time of task",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Another task",
+      "day": "Another day and time of task",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
