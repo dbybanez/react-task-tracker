@@ -55,9 +55,10 @@ body {
   overflow: auto;
   min-height: 300px;
   border: 1px solid steelblue;
-  padding: 1px;
+  padding: 1rem;
   border-radius: 5px;
   background-color: #313133a4;
+  width: 30rem;
 }
 
 .header {
@@ -73,7 +74,7 @@ body {
   color: #fff;
   border: none;
   padding: 10px 20px;
-  margin: 5px;
+  /* margin: 5px; */
   border-radius: 5px;
   cursor: pointer;
   text-decoration: none;
@@ -126,7 +127,7 @@ body {
 .form-control input {
   width: 100%;
   height: 40px;
-  margin: 5px;
+  /* margin: 5px; */
   padding: 3px 7px;
   font-size: 17px;
 }
@@ -427,7 +428,7 @@ img{
 }
 
 h1{
-  padding: 1vh;
+  /* padding: 1vh; */
 }
 
 @media screen and (max-width: 992px) {
